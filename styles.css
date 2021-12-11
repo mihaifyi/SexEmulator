@@ -6,16 +6,12 @@ p {
     font-size: 1.25rem !important;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 900px) {
     .h2 {
         font-size: 28px !important;
     }
 
     p {
         font-size: 16px !important;
-    }
-
-    .left {
-        padding: 120px !important;
     }
   }
